@@ -1,0 +1,1 @@
+pyuic4 -x main.ui -o ui.py

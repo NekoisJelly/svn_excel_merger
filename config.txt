@@ -1,0 +1,4 @@
+http://svn.dev.ledo.com/svn/desdoc
+/data/xlsdir
+D:/SVN/desdoc
+/DataBranches/OBbranch_20120920/xlsdir
